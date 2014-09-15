@@ -9,7 +9,7 @@ public class Main {
     
     //callBark(dang);
     callBark(dum);
-    callJump(d);
+    callJump(d); // this is new
   }
 
   private static void callJump(Flyable j) {

@@ -12,6 +12,6 @@ public class BigDog extends Dog implements Jumpable {
   
   @Override
   public void bark() {
-    System.out.println("BOOOOOXXXXX " + age);
+    System.out.println("BOOddddOOOXXXXX " + age);
   }
 }
